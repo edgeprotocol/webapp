@@ -1,4 +1,4 @@
-# Bancor Web App
+# Edge Web App
 
 ## About
 
